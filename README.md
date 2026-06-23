@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fluttergit
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-
+>>>>>>> 537e637f063a7f4dff10db6776f45a5e1b18c951
