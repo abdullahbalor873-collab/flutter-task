@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: .center,
           children: [
-            const Text('You have pushed the button this many times:'),
+            const Text('Welcome back'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
@@ -115,7 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
-        child: const Icon(Icons.add,color: Colors.black,),
+        child: const Icon(Icons.add,color: Colors.blue,),
         
         
       ),
