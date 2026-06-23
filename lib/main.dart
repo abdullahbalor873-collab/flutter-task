@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: .center,
           children: [
-            const Text('Welcome back to app'),
+            const Text('Welcome back to my app tamkeen',style: TextStyle(color: Colors.blue),),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
